@@ -1,0 +1,8 @@
+This is a sample file to try GITHUB commands:
+
+git add --all
+git commit -m "test file"
+git push origin master
+
+
+THE END.
